@@ -9,3 +9,5 @@ tavily-python
 requests
 certifi
 rich
+beautifulsoup4
+lxml
